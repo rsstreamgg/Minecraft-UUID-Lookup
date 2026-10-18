@@ -4,7 +4,7 @@
 
 When you run the program, just type the username and it will tell you the UUID, or just tell you the username doesn't exist.
 
-### Libraries used:
+### Libraries used (do `pip install <library>`):
 - `requests`
 
 ### What it looks like:
